@@ -1,1 +1,1 @@
-# assignment of javascript
+# assignment-of-javascript
